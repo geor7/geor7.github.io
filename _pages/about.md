@@ -19,8 +19,7 @@ redirect_from:
 
 I focus on developing and applying arificial intelligence models to enhance operations and supply chain management. 
 I am currently a Research Fellow at Leeds University Business School. 
-I obtained my PhD degree at Hong Kong Polytechnic University(<a href="https://www.polyu.edu.hk">PolyU</a>), where I worked on several projects related to sustainable operations, Natural Language Processing (NLP) and Machine Learning applications, and fashion business, advised by Professor <a href="https://research.polyu.edu.hk/en/persons/christina-wong">Christina Wong</a>. 
-I am also working on several healthcare opertions projects with Professor <a href="https://directory.smeal.psu.edu/kfl5390">Kevin Linderman</a> at Penn State University.
+I obtained my PhD degree at Hong Kong Polytechnic University(<a href="https://www.polyu.edu.hk">PolyU</a>), where I worked on several projects related to sustainable operations, Natural Language Processing (NLP) and Machine Learning applications, and fashion business. I work closely with my collaborators Prof <a href="https://research.polyu.edu.hk/en/persons/christina-wong">Christina Wong</a> at HKPolyU, Prof <a href="https://business.leeds.ac.uk/departments-management/staff/368/professor-chee-yew-wong">Chee Yew Wong</a> at LUBS, and Prof <a href="https://directory.smeal.psu.edu/kfl5390">Kevin Linderman</a> at Penn State University.
 <p> During my master studies at Macau University of Science and Technology, I worked on projects related to supply chain relationship.
 Before that, I studied at National Yunlin University of Science and Technology in Taiwan, Weifang University and Qingdao University of Technology Qindao College in mainland China.</p>
 
@@ -56,7 +55,7 @@ Before that, I studied at National Yunlin University of Science and Technology i
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - **Journal of Consumer Behaviour. 2021**.
 - **Methodology Feature:** Survey methodology using primary data.
-- Deteriorating environmental conditions and frequent environmental incidents have urged corporations' execution on corporate environmental responsibility (CER). For maintaining a positive CER, buyers have considered the performance of their suppliers' CER when the buyers plan to sign or renew a contract with their suppliers. However, it is still under-examined how the mechanism works between supplier CER and buyer repurchase intention (BRPI). This study explores the mediating effects of relationship quality between supplier CER and BRPI.
+- This study explores the mediating effects of relationship quality between supplier CER and BRPI.
 
 </div>
 </div>
