@@ -19,9 +19,11 @@ redirect_from:
 
 I focus on developing and applying arificial intelligence models to enhance operations and supply chain management. 
 I am currently a Research Fellow at Leeds University Business School. 
-I obtained my PhD degree at Hong Kong Polytechnic University(<a href="https://www.polyu.edu.hk">PolyU</a>), where I worked on several projects related to sustainable operations, Natural Language Processing (NLP) and Machine Learning applications, and fashion business. I work closely with my collaborators Prof <a href="https://research.polyu.edu.hk/en/persons/christina-wong">Christina Wong</a> at HKPolyU, Prof <a href="https://business.leeds.ac.uk/departments-management/staff/368/professor-chee-yew-wong">Chee Yew Wong</a> at LUBS, and Prof <a href="https://directory.smeal.psu.edu/kfl5390">Kevin Linderman</a> at Penn State University.
+I obtained my PhD degree at Hong Kong Polytechnic University(<a href="https://www.polyu.edu.hk">HKPolyU</a>) and completed AI  course and projects at The Hong Kong University of Science and Technology (<a href="https://hkust.edu.hk">HKUST</a>).
+
+ My research interests are sustainable operations, Natural Language Processing (NLP) and Machine Learning applications, healthcare operations, fashion business and supply chain, supply chain innovation, etc. I work closely with my collaborators Prof <a href="https://research.polyu.edu.hk/en/persons/christina-wong">Christina Wong</a> at HKPolyU, Prof <a href="https://business.leeds.ac.uk/departments-management/staff/368/professor-chee-yew-wong">Chee Yew Wong</a> at LUBS, and Prof <a href="https://directory.smeal.psu.edu/kfl5390">Kevin Linderman</a> at Penn State University.
 <p> During my master studies at Macau University of Science and Technology, I worked on projects related to supply chain relationship.
-Before that, I studied at National Yunlin University of Science and Technology in Taiwan, Weifang University and Qingdao University of Technology Qindao College in mainland China.</p>
+<!-- Before that, I studied at National Yunlin University of Science and Technology in Taiwan, Weifang University and Qingdao University of Technology Qindao College in mainland China.</p> -->
 
 
 # 🔥 News
