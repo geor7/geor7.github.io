@@ -7,6 +7,42 @@ redirect_from:
   - /about/
   - /about.html
 ---
+  
+<style>
+  /* Base tag style */
+  .tag {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1;
+    margin-right: 4px;
+  }
+
+  /* Category-specific colors */
+  .tag-conference {
+    background-color: #e3f2fd;   /* light blue */
+    color: #0d47a1;              /* deep blue text */
+  }
+
+  .tag-paper {
+    background-color: #e8f5e9;   /* light green */
+    color: #1b5e20;              /* dark green */
+  }
+
+  .tag-news {
+    background-color: #fff3e0;   /* light orange */
+    color: #e65100;              /* deep orange */
+  }
+
+  /* Optional hover effect */
+  .tag:hover {
+    opacity: 0.85;
+    cursor: default;
+  }
+</style>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -26,11 +62,12 @@ I am particularly interested in sustainable operations management, natural langu
 
 <!-- Before that, I studied at National Yunlin University of Science and Technology in Taiwan, Weifang University and Qingdao University of Technology Qindao College in mainland China. -->
 
+# News
+<p>
+*2024.03*: A methodology paper is accepted at AOM 2024 . Look forward to seeing you all in Chicago! <span class="tag tag-conference">Conference</span> 
+</p>
 
-
-# 🔥 News
-- *2024.03*: &nbsp;🎉🎉 A methodology paper is accepted at AOM 2024 . Look forward to seeing you all in Chicago!
-- *2024.02*: &nbsp;🎉🎉 A paper is accpeted at EurOMA 2024. Look forward to seeing you all in Barcelona!
+- *2024.02*: [Conference paper] A paper is accpeted at EurOMA 2024. Look forward to seeing you all in Barcelona!
 
 # 📝 Working projects 
 
