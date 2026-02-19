@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "George MZ Xu"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -15,44 +15,60 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# 😀 about me 
 <span class='anchor' id='about-me'></span>
+I focus on developing and applying arificial intelligence models to enhance operations and supply chain management. 
+I am currently an assistant professor at University of Sussex Business School (USBS). Also, I am an visiting research fellow at Leeds University Business School (LUBS).
+I obtained my PhD degree at Hong Kong Polytechnic University (<a href="https://www.polyu.edu.hk">HKPolyU</a>) and completed AI course and projects at The Hong Kong University of Science and Technology (<a href="https://hkust.edu.hk">HKUST</a>).
+During my master studies at Macau University of Science and Technology, I worked on projects related to supply chain relationship.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am particularly interested in sustainable operations management, natural language processing (NLP) and machine learning applications, healthcare operations, fashion business and supply chain, supply chain innovation, etc. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 📝 News
+- *2025.9* An empirical paper that explores the performance impact of sustainability reporting has been accepted in IJPE. <span class="tag tag-paper ">Paper</span> 
+- *2025.6* I am happy to share will be joining University of Sussex Business School as an assistant professor in 25/26 academic year. <span class="tag tag-news ">News</span> 
+- *2024.3*: A methodology paper is accepted at AOM 2024 . Look forward to seeing you all in Chicago! <span class="tag tag-conference">Conference</span> 
+- *2024.2*:  A paper is accpeted at EurOMA 2024. Look forward to seeing you all in Barcelona! <span class="tag tag-conference">Conference</span> 
 
+# 📝 Working papers 
+- Exchange of Knowledge Between OM and Other Disciplines: A Review of Blockchain Research
+- EventMining: Natural Language Processing-based Event Discovery for Online Business Information
+- Managing the Unexpected: A Large-Scale Data-Driven Event Analysis on Emerging Sustainability Events
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJPE 2025</div><img src='images/gri_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Better to Talk More? The Impact of Sustainability Reporting on Productivity and Market Response from Signaling and Stakeholder Perspectives](https://sussex.figshare.com/articles/journal_contribution/The_impact_of_sustainability_reporting_on_manufacturer_market_and_operations_performance_five_long-term_event_studies_from_signaling_and_stakeholder_perspectives/30179614?file=58136695)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Mingze Xu**, Christina Wong, Chee Yee Wong, Sakun Boon-itt
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- **International Journal of Production and Economics, 2025**
+- Presented at **AOM**, **EurOMA** 
+- **Methodology Feature:** Event study using Secondary data
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCB 2021</div><img src='images/cer_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[From corporate environmental responsibility to purchase intention of Chinese buyers: The mediation role of relationship quality](https://sussex.figshare.com/articles/journal_contribution/From_corporate_environmental_responsibility_to_purchase_intention_of_Chinese_buyers_the_mediation_role_of_relationship_quality/30213556?file=58291804)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Mingze Xu**, Ivan Ka Wai Lai, Huajun Tang
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+- **Journal of Consumer Behaviour. 2021**.
+- **Methodology Feature:** Survey methodology using primary data.
+- This study explores the mediating effects of relationship quality between supplier CER and BRPI.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+</div>
+</div>
+<!-- 
+# Research Team & Opportunities
+If you are interested in the relevant topics of applying AI for business reseach (e.g., NLP and applied machine learning for various oscm topics), you are welcomed to drop an email for discussions.  -->
+<!-- 
+<!-- The PhD applicatio and funding inforamtion can be found at [here](https://www.sussex.ac.uk/study/fees-funding/phd-funding).  -->
+<!-- 
+CSC scholarship: Sussex has also collaborated with CSC for PhD scholarship and visiting scholar support. [For details](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1756-China-Scholarship-Council-(CSC)--University-of-Sussex-Scholarships).  --> -->
+
