@@ -1,9 +1,9 @@
 ---
 title: "Research Team"
 permalink: /research-team/
-# layout: single
+layout: single
 author_profile: true
-toc: true  
+# toc: true  
 ---
 
 # Research Team
