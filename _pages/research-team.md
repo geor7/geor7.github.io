@@ -19,7 +19,7 @@ I am happy to discuss potential PhD projects aligned with my research areas, par
 
 **CSC Scholarship.**The University of Sussex collaborates with the China Scholarship Council (CSC) to support PhD students and visiting scholars. Prospective applicants interested in CSC-supported study are encouraged to contact me in advance to discuss research fit and application timelines. [For details](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1756-China-Scholarship-Council-(CSC)--University-of-Sussex-Scholarships).
 
-## Formal members
+## Former members
 - **[Wentao Zhang](https://www.ifm.eng.cam.ac.uk/people/wz390/)**. Part-time RA at the *University of Leeds*. Sep 2024 to Nov 2024. *Currently*: PhD student at the *University of Cambridge*, supervised by Dr Yongjiang Shi.
 
 
