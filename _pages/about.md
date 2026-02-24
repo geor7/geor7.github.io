@@ -64,11 +64,3 @@ I am particularly interested in sustainable operations management, natural langu
 
 </div>
 </div>
-<!-- 
-# Research Team & Opportunities
-If you are interested in the relevant topics of applying AI for business reseach (e.g., NLP and applied machine learning for various oscm topics), you are welcomed to drop an email for discussions.  -->
-<!-- 
-<!-- The PhD applicatio and funding inforamtion can be found at [here](https://www.sussex.ac.uk/study/fees-funding/phd-funding).  -->
-<!-- 
-CSC scholarship: Sussex has also collaborated with CSC for PhD scholarship and visiting scholar support. [For details](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1756-China-Scholarship-Council-(CSC)--University-of-Sussex-Scholarships).  --> -->
-
