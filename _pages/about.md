@@ -25,6 +25,7 @@ During my master studies at Macau University of Science and Technology, I worked
 I am particularly interested in sustainable operations management, natural language processing (NLP) and machine learning applications, healthcare operations, fashion business and supply chain, supply chain innovation, etc. 
 
 # 📝 News
+- *2026.2* A theoretical paper on interdisciplianry knowledge exchange has been accepted for the EurOMA 2026 conference. See you in Vienna! <span class="tag tag-conference">Conference</span> 
 - *2025.9* An empirical paper that explores the performance impact of sustainability reporting has been accepted in IJPE. <span class="tag tag-paper ">Paper</span> 
 - *2025.6* I am happy to share will be joining University of Sussex Business School as an assistant professor in 25/26 academic year. <span class="tag tag-news ">News</span> 
 - *2024.3*: A methodology paper is accepted at AOM 2024 . Look forward to seeing you all in Chicago! <span class="tag tag-conference">Conference</span> 
