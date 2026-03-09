@@ -18,7 +18,7 @@ redirect_from:
 # 😀 about me 
 <span class='anchor' id='about-me'></span>
 I focus on developing and applying arificial intelligence models to enhance operations and supply chain management. 
-I am currently an assistant professor at University of Sussex Business School (USBS). Also, I am an visiting research fellow at Leeds University Business School (LUBS).
+I am currently an assistant professor at University of Sussex Business School (<a href="https://profiles.sussex.ac.uk/p661250-george-xu">USBS</a>). Also, I am an visiting research fellow at Leeds University Business School (<a href ="https://business.leeds.ac.uk/faculty/staff/2021/dr-george-mingze-xu">LUBS</a>).
 I obtained my PhD degree at Hong Kong Polytechnic University (<a href="https://www.polyu.edu.hk">HKPolyU</a>) and completed AI course and projects at The Hong Kong University of Science and Technology (<a href="https://hkust.edu.hk">HKUST</a>).
 During my master studies at Macau University of Science and Technology, I worked on projects related to supply chain relationship.
 
