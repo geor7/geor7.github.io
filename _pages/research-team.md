@@ -6,7 +6,7 @@ author_profile: true
 # toc: true  
 ---
 
-# Research Team
+# Research Team and Openings
 ## Collaborations
 I welcome collaborations on research related to AI applications in business and operations management, including (but not limited to) natural language processing (NLP), applied machine learning, and data-driven approaches to OSCM and business topics. 
 
@@ -20,6 +20,6 @@ I am happy to discuss potential PhD projects aligned with my research areas, par
 **CSC Scholarship.**The University of Sussex collaborates with the China Scholarship Council (CSC) to support PhD students and visiting scholars. Prospective applicants interested in CSC-supported study are encouraged to contact me in advance to discuss research fit and application timelines. [For details](https://www.sussex.ac.uk/study/fees-funding/phd-funding/view/1756-China-Scholarship-Council-(CSC)--University-of-Sussex-Scholarships).
 
 ## Former members
-- Wentao Zhang. Part-time RA at the *University of Leeds*. Sep 2024 to Nov 2024. *Currently*: PhD student at the *University of Cambridge*, supervised by Dr Yongjiang Shi.
+- Wentao Zhang. Msc. Student 23-24 and Part-time RA at the *University of Leeds*. Sep 2024 to Nov 2024. *Currently*: PhD student at the *University of Cambridge*, supervised by Dr Yongjiang Shi.
 
 
